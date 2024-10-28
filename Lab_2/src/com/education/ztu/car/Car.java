@@ -2,7 +2,7 @@ package com.education.ztu.car;
 
 public class Car {
     private String brand;
-    private Engine engine;
+    public Engine engine;
 
     public Car(String brand) {
         this.brand = brand;
