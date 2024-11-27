@@ -51,7 +51,7 @@ public class Task_7 {
         }
 
         // 10. Метод Collections.frequency()
-        int frequency = Collections.frequency(numbers, 30);
-        System.out.println("Частота елемента 30: " + frequency);
+        int frequency = Collections.frequency(numbers, 3);
+        System.out.println("Частота елемента 3: " + frequency);
     }
 }
